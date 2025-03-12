@@ -13,7 +13,8 @@ The project follows a complete ML pipeline:
 ---
 
 ## 📁 Project Structure
-```📦 Titanic-ML
+```
+📦 Titanic-ML
 ├── train.csv
 ├── test.csv
 ├── train_cleaned.csv
@@ -25,7 +26,8 @@ The project follows a complete ML pipeline:
 │   ├── submission_xgb_cleaned.csv
 │   ├── submission_lgbm_cleaned.csv
 │   └── submission_ensemble_cleaned.csv
-└── README.md```
+└── README.md
+```
 
 ---
 
