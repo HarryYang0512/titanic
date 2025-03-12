@@ -13,7 +13,19 @@ The project follows a complete ML pipeline:
 ---
 
 ## 📁 Project Structure
-<pre> ```bash 📦 Titanic-ML ├── train.csv ├── test.csv ├── train_cleaned.csv ├── test_cleaned.csv ├── titanic_model_pipeline.ipynb ├── submission/ │ ├── submission_logreg_cleaned.csv │ ├── submission_rf_optimized.csv │ ├── submission_xgb_cleaned.csv │ ├── submission_lgbm_cleaned.csv │ └── submission_ensemble_cleaned.csv └── README.md ``` </pre>
+```📦 Titanic-ML
+├── train.csv
+├── test.csv
+├── train_cleaned.csv
+├── test_cleaned.csv
+├── titanic_model_pipeline.ipynb
+├── submission/
+│   ├── submission_logreg_cleaned.csv
+│   ├── submission_rf_optimized.csv
+│   ├── submission_xgb_cleaned.csv
+│   ├── submission_lgbm_cleaned.csv
+│   └── submission_ensemble_cleaned.csv
+└── README.md```
 
 ---
 
